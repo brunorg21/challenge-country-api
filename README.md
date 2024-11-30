@@ -2,9 +2,7 @@
 
 ## Country Challenge
 
-
-
-## Instalação
+## Installation
 
 ```bash
 npm install
@@ -22,7 +20,7 @@ ou
 yarn install
 ```
 
-- Por fim rode o comando para rodar a aplicação:
+- Run project with command below:
   ```bash
   npm run dev
   ```
